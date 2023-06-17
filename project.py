@@ -2,8 +2,8 @@ import requests
 import openai
 import re
 
-openai.api_key = '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'
-token = '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'
+openai.api_key = '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'
+token = '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'
 
 # GitHub API headers
 headers = {
