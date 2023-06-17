@@ -3,7 +3,7 @@ import openai
 import re
 
 openai.api_key = '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'
-token = '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'
+token = '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'
 
 # GitHub API headers
 headers = {
